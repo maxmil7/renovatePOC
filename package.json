@@ -1,0 +1,23 @@
+{
+  "name": "renovatepoc",
+  "version": "0.0.1",
+  "description": "POC for verifying renovate integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmil7/renovatePOC.git"
+  },
+  "author": "maxmil7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmil7/renovatePOC/issues"
+  },
+  "homepage": "https://github.com/maxmil7/renovatePOC#readme",
+  "dependencies": {
+    "@maxmil7/greenkeeper_mod": "^0",
+    "tape": "^4.11.0"
+  }
+}
