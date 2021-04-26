@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/maxmil7/renovatePOC#readme",
   "dependencies": {
-    "@maxmil7/greenkeeper_mod": "~1.6.7",
+    "@maxmil7/greenkeeper_mod": "~1.14.0",
     "tape": "^4.11.0"
   }
 }
